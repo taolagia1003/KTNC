@@ -535,7 +535,7 @@ public class NhanVien_panel extends javax.swing.JPanel {
     private javax.swing.JButton btnThem;
     private javax.swing.JButton btnXoa;
     private javax.swing.JComboBox<String> cboGioiTinh;
-    private com.toedter.calendar.JDateChooser dateChooser;
+    public com.toedter.calendar.JDateChooser dateChooser;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JLabel lblDanhSach;
     private javax.swing.JLabel lblDiaChi;
@@ -554,12 +554,12 @@ public class NhanVien_panel extends javax.swing.JPanel {
     private javax.swing.JRadioButton rdoNV;
     private javax.swing.JRadioButton rdoQL;
     private javax.swing.JTable tbNhanVien;
-    private javax.swing.JTextField txtDiaChi;
-    private javax.swing.JTextField txtMaNV;
-    private javax.swing.JPasswordField txtMatKhau;
-    private javax.swing.JTextField txtSDT;
-    private javax.swing.JTextField txtTenNV;
-    private javax.swing.JPasswordField txtXacNhanMatKhau;
+    public javax.swing.JTextField txtDiaChi;
+    public javax.swing.JTextField txtMaNV;
+    public javax.swing.JPasswordField txtMatKhau;
+    public javax.swing.JTextField txtSDT;
+    public javax.swing.JTextField txtTenNV;
+    public javax.swing.JPasswordField txtXacNhanMatKhau;
     // End of variables declaration//GEN-END:variables
 
     

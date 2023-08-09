@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.poly.ListNhanVienTestNG">
+      <class name="com.poly.testlogin.logintest">
         <methods>
-          <include name="chuanBiTruoc"/>
-          <include name="selectAllTest"/>
+          <include name="testThemNhanVienThanhCong"/>
         </methods>
-      </class> <!-- com.poly.ListNhanVienTestNG -->
+      </class> <!-- com.poly.testlogin.logintest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

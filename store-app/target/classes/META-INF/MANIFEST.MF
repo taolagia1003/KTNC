@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
+Build-Jdk-Spec: 20
 Class-Path: libs/mssql-jdbc-9.2.1.jre15.jar libs/AbsoluteLayout-RELEASE1
  23.jar libs/javax.mail-1.6.2.jar libs/activation-1.1.jar libs/jcalendar
  -1.4.jar libs/poi-ooxml-4.1.2.jar libs/poi-ooxml-schemas-4.1.2.jar libs
